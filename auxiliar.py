@@ -1,6 +1,4 @@
 from arcface import ArcFace
-import os
-import skimage.io
 import numpy as np
 
 
