@@ -5,7 +5,7 @@ import auxiliar as ax
 from os import listdir
 from os.path import isfile, join
 from tqdm import tqdm 
-
+from arcface import ArcFace
 
 
 
@@ -31,6 +31,8 @@ if __name__ == "__main__":
     match_cos = []
     notmatch_cos = []
 
+    errors = np.array([['Photo1', 'Photo2']])
+
     for file1 in tqdm(idx):
 
         for file2 in idx_2:
@@ -39,7 +41,16 @@ if __name__ == "__main__":
             path2 = path+file2
             
             # Calculate the embeding distance and cos similiratity for each pair of photos
-            emb_dist, cos_sim  = ax.comparefaces(path1, path2)
+            try:
+                emb_dist, cos_sim  = ax.comparefaces(path1, path2)
+            except FileNotFoundError: 
+
+                print(f'Problem with photo1: {path1}')
+                print(f'Problem with photo2: {path2}')
+
+                err = np.array([[file1, file2]])
+                errors = np.r_[errors, err]
+                pass
 
             # Store the embeding distance in the dataframe
             df_emb[file1][file2] = emb_dist
@@ -70,5 +81,5 @@ if __name__ == "__main__":
     np.savetxt('notmatch_emb.txt', notmatch_emb, delimiter=',')
     np.savetxt('notmatch_cos.txt', notmatch_cos, delimiter=',')
     # Save dataframes
-    df_emb.to_csv('matrix_distance.csv', index=False)
-    df_cos.to_csv('matrix_cos_similiaity.csv', index=False)
+    df_emb.to_csv('matrix_distance.csv')
+    df_cos.to_csv('matrix_cos_similiaity.csv')
