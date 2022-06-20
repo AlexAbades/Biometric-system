@@ -1,0 +1,1987 @@
+Putty
+
+IP adress -> username from dtu s212784@login2.hpc.dtu.dk
+pass -> A1l2e3x41995
+
+winSCP:
+User name : s212784@transfer.gbar.dtu.dk
+Pass -> A1l2e3x41995
+
+HPC guide:
+- hpc.dtu.dk
+
+
+
+
+
+
+
+
+
+gromacs/2019.4                                                                oscmpiexec
+gromacs/2019.4-gpu                                                            pandas/0.16.2-python-2.7.3
+gromacs/2019.4-gpu-plumed-2.6                                                 pandas/0.20.3-python-2.7.3
+gromacs/2019.6                                                                pandas/0.20.3-python-3.5.4
+gromacs/2019.6-gpu                                                            pandas/0.20.3-python-3.6.2
+gromacs/2020-gpu                                                              pandas/0.23-python-2.7.13
+gromacs/2020.0                                                                pandas/0.25.3-python-3.7.5
+gromacs/2020.6                                                                pandas/0.25.3-python-3.8.0
+gromacs/2020.6-gpu                                                            pandas/1.0.3-python-3.6.10
+gromacs/2021.2                                                                pandas/1.0.3-python-3.7.6
+gromacs/2021.2-gpu                                                            pandas/1.0.3-python-3.7.7
+gromacs/2021.4-gpu-plumed-2.8-test                                            pandas/1.0.3-python-3.8.1
+gromacs/2021.4-gpu-plumed-2.8-test2                                           pandas/1.0.3-python-3.8.2
+gromacs/2022.1-cpu-cp2k-9.1-double                                            pandas/1.1.3-python-3.8.4
+gromacs/2022.1-gpu-cp2k-9.1                                                   pandas/1.1.5-python-3.6.13
+gsl/2.7                                                                       pandas/1.2.4-python-3.7.10
+gurobi/5.6.2                                                                  pandas/1.2.4-python-3.8.9
+gurobi/5.6.3                                                                  pandas/1.2.4-python-3.9.5
+gurobi/6.0.0                                                                  pandas/1.3.1-python-3.7.11
+gurobi/6.5.1                                                                  pandas/1.3.1-python-3.8.11
+gurobi/7.0.1                                                                  pandas/1.3.1-python-3.9.6
+gurobi/8.0.0                                                                  pandas/1.4.1-python-3.9.10
+gurobi/8.1.0                                                                  pandas/1.4.1-python-3.9.11
+gurobi/8.1.1(default)                                                         pandas/1.4.1-python-3.10.2
+gurobi/9.0.0                                                                  petsc/3.7.6-june-2017
+gurobi/9.1.0                                                                  petsc/3.8.4-gcc-9.2.0-intel-mkl-2019.5
+gurobi/9.5.0                                                                  petsc/3.10.2-november-2018-complex-slepc
+gurobi/9.5.1                                                                  petsc/3.10.2-november-2018-complex-slepc-debug
+gurobipy/gurobi-6.5.1-python-3.5.1                                            petsc/3.11.2-june-2019
+gurobipy/gurobi-7.0.1-python-2.7.13                                           petsc/3.11.2-may-2019
+gurobipy/gurobi-7.0.1-python-3.5.1                                            petsc/3.12.1-gcc-9.2.0-intel-mkl-2019.5
+gurobipy/gurobi-7.0.1-python-3.5.4                                            petsc/3.12.4-april-2020-gcc-9.3.0-openblas-0.3.9-non-complex-slepc
+gurobipy/gurobi-8.0.0-python-2.7.13                                           petsc/3.12.4-april-2021-gcc-9.3.0-openblas-0.3.13-non-complex-slepc-elemental
+gurobipy/gurobi-8.0.0-python-3.5.1                                            petsc/3.12.4-march-2020-gcc-9.2.0-openblas-0.3.8-complex-slepc
+gurobipy/gurobi-8.0.0-python-3.5.4                                            petsc/3.12.4-march-2020-intel2020-mkl-complex-slepc
+gurobipy/gurobi-8.0.0-python-3.6.2                                            petsc/3.14.6-may-2021-gcc-9.3.1-openblas-0.3.13-complex-slepc
+gurobipy/gurobi-8.1.0-python-2.7.13                                           petsc/3.14.6-may-2021-gcc-9.3.1-openblas-0.3.13-non-complex-slepc
+gurobipy/gurobi-8.1.0-python-3.5.1                                            petsc/3.15.0-may-2021-gcc-9.3.1-openblas-0.3.13-complex-slepc
+gurobipy/gurobi-8.1.0-python-3.5.4                                            petsc/3.15.0-may-2021-gcc-9.3.1-openblas-0.3.13-non-complex-slepc
+gurobipy/gurobi-8.1.0-python-3.6.2                                            petsc/3.15.0-may-2021-gcc-9.3.1-openblas-0.3.13-non-complex-slepc-elemental-superlu
+gurobipy/gurobi-8.1.1-python-2.7.13                                           petsc/3.15.0-may-2021-gcc-9.3.1-openblas-0.3.13-non-complex-slepc-elemental-superlu-debug
+gurobipy/gurobi-8.1.1-python-3.5.1                                            petsc/3.16.4-mar-2022-gcc-10.3.0-openblas-0.3.19-non-complex-slepc-elemental-superlu
+gurobipy/gurobi-8.1.1-python-3.5.4                                            petsc/3.16.4-mar-2022-intel-2021.4.0-gcc-10.3.0-non-complex-slepc-elemental-superlu
+gurobipy/gurobi-8.1.1-python-3.6.2                                            pgi/2011
+gurobipy/gurobi-9.0.0-python-2.7.13                                           pgi/2012
+gurobipy/gurobi-9.0.0-python-3.5.4                                            pgi/2013(default)
+gurobipy/gurobi-9.0.0-python-3.6.2                                            PIL/1.1.7
+gurobipy/gurobi-9.0.0-python-3.7.7                                            pism/0.6.0
+gurobipy/gurobi-9.1.0-python-2.7.13                                           pism/0.6.2
+gurobipy/gurobi-9.1.0-python-3.6.2                                            pism/0.6.2friday
+gurobipy/gurobi-9.1.0-python-3.7.10                                           pism/0.6friday
+gurobipy/gurobi-9.1.0-python-3.8.2                                            pism/0.7.3
+gurobipy/gurobi-9.5.0-python-2.7.13                                           pism/1.0.0
+gurobipy/gurobi-9.5.0-python-3.7.10                                           pism/1.2.2(default)
+gurobipy/gurobi-9.5.0-python-3.8.2                                            pism/1.2.2-march-2022
+gurobipy/gurobi-9.5.0-python-3.9.6                                            pism/2.0.2
+gurobipy/gurobi-9.5.1-python-3.8.2                                            povray/3.7.0.8-gcc-4.9.2
+gurobipy/gurobi-9.5.1-python-3.9.6                                            proj/7.2.0
+gurobipy/gurobi-9.5.1-python-3.9.10                                           proj/7.2.1
+gurobipy/gurobi-9.5.1-python-3.9.11                                           proj/8.2.1
+gurobipy/gurobi-9.5.1-python-3.10.2                                           PuLP/1.6.1
+h5py/2.6.0-python-2.7.3                                                       pygtk/python-2.7.3-pygtk-2.16.0
+h5py/2.7.1-python-2.7.12_ucs4                                                 pymol/1.7.6.0
+h5py/2.7.1-python-3.5.4                                                       pymol/2.4.0
+h5py/2.8.0-python-3.6.2                                                       pymol/2.4.1
+h5py/3.1.0-python-3.6.13                                                      pyrosetta/r56316
+h5py/3.2.1-python-3.7.10                                                      pytables/3.2.0-python-3.5.4
+h5py/3.2.1-python-3.8.9                                                       python/2.6.8
+h5py/3.2.1-python-3.9.5                                                       python/2.7.3(default)
+h5py/3.3.0-python-3.7.11                                                      python/2.7.12_ucs4
+h5py/3.3.0-python-3.8.11                                                      python/2.7.13
+h5py/3.3.0-python-3.9.6                                                       python/2.7.13_ucs4
+h5py/3.6.0-python-3.9.10                                                      python/2.7.18
+h5py/3.6.0-python-3.9.11                                                      python3/3.2.5
+h5py/3.6.0-python-3.10.2                                                      python3/3.3.0
+harminv/1.4                                                                   python3/3.4.1
+hawc2/12.9.0                                                                  python3/3.5.1
+hdf5/1.12.1-gcc-10.3.0                                                        python3/3.5.4
+idl/8.7                                                                       python3/3.6.0
+intel/2013.0.028                                                              python3/3.6.2
+intel/2013.1.039(default)                                                     python3/3.6.7
+intel/2013.1.046                                                              python3/3.6.10
+intel/2015.0.090                                                              python3/3.6.13
+intel/2015.1.133                                                              python3/3.7.5
+intel/2015.1.133.mkl                                                          python3/3.7.6
+intel/2015.1.133.mpi                                                          python3/3.7.7
+intel/2015.1.133.util                                                         python3/3.7.10
+intel/2015.3.187                                                              python3/3.7.11
+intel/2015.3.187.mkl                                                          python3/3.8.0
+intel/2015.3.187.mpi                                                          python3/3.8.1
+intel/2015.3.187.util                                                         python3/3.8.2
+intel/2016.1.0.423501                                                         python3/3.8.4
+intel/2016.1.0.423501.mkl                                                     python3/3.8.9
+intel/2016.1.0.423501.mpi                                                     python3/3.8.11
+intel/2016.1.0.423501.util                                                    python3/3.9.5
+intel/2016.2.0                                                                python3/3.9.6
+intel/2016.2.0.mkl                                                            python3/3.9.10
+intel/2016.2.0.mpi                                                            python3/3.9.11(default)
+intel/2016.2.0.util                                                           python3/3.10.2
+intel/2017.0.035                                                              qt/4.8.4
+intel/2017.0.035.mkl                                                          qt/5.5.0
+intel/2017.0.035.mpi                                                          R/3.6.3-mkl2021update4
+intel/2017.0.035.util                                                         R/4.0.5-mkl2021update4
+intel/2017.1.043                                                              R/4.1.0-mkl2020update4
+intel/2017.1.043.mkl                                                          R/4.1.1-mkl2020update4
+intel/2017.1.043.mpi                                                          R/4.1.2-mkl2021update4
+intel/2017.1.043.util                                                         R/4.1.3-mkl2021update4(default)
+intel/2017.4.196                                                              R/4.2.0-mkl2021update4
+intel/2017.4.196.mkl                                                          rdkit/2019_03_1-python-3.6.8
+intel/2017.4.196.mpi                                                          rdkit/2019_03_1-python-3.7.3
+intel/2017.4.196.util                                                         rosetta/2020.11.61179-cxx11thread
+intel/2017.7.065                                                              rosetta/2020.11.61179-cxx11thread-gcc-9.3
+intel/2017.7.065.mkl                                                          rosetta/2020.11.61179-cxx11thread-gcc-9.3-mpi
+intel/2017.7.065.mpi                                                          rosetta/2021.16.61629
+intel/2017.7.065.util                                                         schrodinger/2012Update2(default)
+intel/2018.0.033                                                              schrodinger/2015Update2
+intel/2018.0.033.mkl                                                          schrodinger/2015Update3
+intel/2018.0.033.mpi                                                          schrodinger/2015Update4
+intel/2018.0.033.util                                                         schrodinger/2016Update3
+intel/2018.1.038                                                              schrodinger/2018Update2
+intel/2018.1.038.mkl                                                          schrodinger/2018Update4
+intel/2018.1.038.mpi                                                          scipy/0.17.1-python-3.5.1
+intel/2018.1.038.util                                                         scipy/0.18.1-python-2.7.12_ucs4
+intel/2018.2.046                                                              scipy/0.19.0-python-2.7.13
+intel/2018.2.046.mkl                                                          scipy/0.19.1-numpy-1.9.2-python-2.7.3
+intel/2018.2.046.mpi                                                          scipy/0.19.1-numpy-1.13.3-python-2.7.12_ucs4
+intel/2018.2.046.util                                                         scipy/0.19.1-python-3.5.4
+intel/2018.3.051                                                              scipy/0.19.1-python-3.6.2
+intel/2018.3.051.mkl                                                          scipy/1.1.0-python-2.7.13
+intel/2018.3.051.mpi                                                          scipy/1.3.3-python-3.7.5
+intel/2018.3.051.util                                                         scipy/1.3.3-python-3.8.0
+intel/2019.0.117                                                              scipy/1.4.1-python-3.6.10
+intel/2019.0.117.mkl                                                          scipy/1.4.1-python-3.7.6
+intel/2019.0.117.mpi                                                          scipy/1.4.1-python-3.7.7
+intel/2019.0.117.util                                                         scipy/1.4.1-python-3.8.1
+intel/2019.1.144                                                              scipy/1.4.1-python-3.8.2
+intel/2019.1.144.mkl                                                          scipy/1.5.3-python-3.8.4
+intel/2019.1.144.mpi                                                          scipy/1.5.4-python-3.6.13
+intel/2019.1.144.util                                                         scipy/1.5.4-python-3.7.10
+intel/2019.2.187                                                              scipy/1.5.4-python-3.8.9
+intel/2019.2.187.mkl                                                          scipy/1.6.3-python-3.7.11
+intel/2019.2.187.mpi                                                          scipy/1.6.3-python-3.8.11
+intel/2019.2.187.util                                                         scipy/1.6.3-python-3.9.5
+intel/2019.3.199                                                              scipy/1.6.3-python-3.9.6
+intel/2019.3.199.mkl                                                          scipy/1.7.3-python-3.9.10
+intel/2019.3.199.mpi                                                          scipy/1.7.3-python-3.9.11(default)
+intel/2019.3.199.util                                                         scipy/1.7.3-python-3.10.2
+intel/2019.5.281                                                              sharc/2.1.1
+intel/2019.5.281.mkl                                                          sharc/2.1.1-python-2.7.18
+intel/2019.5.281.mpi                                                          sharc/2.1.1-with-openbabel
+intel/2019.5.281.python2                                                      shipflow/7.0.1
+intel/2019.5.281.python3                                                      shipflow/7.0.1-openmpi-1.8.8
+intel/2019.5.281.util                                                         simmobility/20210906
+intel/2020.0.166                                                              smv/6.7.15
+intel/2020.0.166.mkl                                                          spot/1.2
+intel/2020.0.166.mpi                                                          studio/12u4
+intel/2020.0.166.python3                                                      studio/12u5
+intel/2020.0.166.util                                                         studio/12u6(default)
+intel/2020.1.217                                                              suitesparse/5.1.2
+intel/2020.1.217.mkl                                                          tensorflow-icg/20180712-skylake-python-3.6.2
+intel/2020.1.217.mpi                                                          tensorflow/1.5-cpu-python-3.6.2
+intel/2020.1.217.python3                                                      tensorflow/1.5-gpu-python-3.6.2(default)
+intel/2020.1.217.util                                                         tensorflow/1.10-cpu-python-3.6.2
+intel/2020.2.254                                                              tensorflow/1.10-gpu-python-3.6.2
+intel/2020.2.254.mkl                                                          tensorflow/1.12-cpu-python-3.6.2
+intel/2020.2.254.mpi                                                          tensorflow/1.12-gpu-python-3.6.2
+intel/2020.2.254.python3                                                      tensorrt/6.0.1.5-cuda-10.0
+intel/2020.2.254.util                                                         tensorrt/6.0.1.5-cuda-10.1
+intel/2020.4.304                                                              tensorrt/6.0.1.8-cuda-10.2
+intel/2020.4.304.mkl                                                          tensorrt/7.0.0.11-cuda-10.0
+intel/2020.4.304.mpi                                                          tensorrt/7.0.0.11-cuda-10.2
+intel/2020.4.304.python3                                                      tensorrt/7.2.1.6-cuda-10.2
+intel/2020.4.304.util                                                         tensorrt/7.2.1.6-cuda-11.0
+intel/2021.3.0                                                                tensorrt/7.2.1.6-cuda-11.1
+intel/2021.3.0.mkl                                                            tensorrt/7.2.3.4-cuda-10.2
+intel/2021.3.0.mpi                                                            tensorrt/7.2.3.4-cuda-11.0
+intel/2021.4.0                                                                tensorrt/7.2.3.4-cuda-11.1
+intel/2021.4.0.mkl                                                            tensorrt/7.2.3.4-cuda-11.2
+intel/2021.4.0.mpi                                                            tensorrt/8.2.3.0-cuda-11.4
+intelmpi/4.1.0.024                                                            tensorrt/8.2.3.0-cuda-11.5
+intelmpi/4.1.1.036                                                            tensorrt/v8.0.1.6-cuda-11.3
+Ipopt/3.13.3                                                                  tmux/2.0
+
+Key:
+(symbolic-version)  <module-tag>  <L>=loaded
+~/biometric_systems
+hpclogin2(s212784) $ module avail arcface
+~/biometric_systems
+hpclogin2(s212784) $ module avail tensorflow
+--------------------------------------------------------------------------- /apps/dcc/etc/ModulesSL73/modulefiles ---------------------------------------------------------------------------
+tensorflow-icg/20180712-skylake-python-3.6.2  tensorflow/1.5-gpu-python-3.6.2(default)  tensorflow/1.10-gpu-python-3.6.2  tensorflow/1.12-gpu-python-3.6.2
+tensorflow/1.5-cpu-python-3.6.2               tensorflow/1.10-cpu-python-3.6.2          tensorflow/1.12-cpu-python-3.6.2
+
+Key:
+(symbolic-version)
+~/biometric_systems
+hpclogin2(s212784) $ python3 -m pip install tensorflow
+Collecting tensorflow
+  Downloading https://files.pythonhosted.org/packages/de/f0/96fb2e0412ae9692dbf400e5b04432885f677ad6241c088ccc5fe7724d69/tensorflow-1.14.0-cp36-cp36m-manylinux1_x86_64.whl (109.2MB)
+    100% |████████████████████████████████| 109.2MB 11kB/s
+Collecting grpcio>=1.8.6 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/61/dd/d8eda79197a1275e06621850775c7bbf34a141ff92553754dde4e87d7551/grpcio-1.46.3.tar.gz (21.8MB)
+    100% |████████████████████████████████| 21.9MB 57kB/s
+Collecting termcolor>=1.1.0 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/8a/48/a76be51647d0eb9f10e2a4511bf3ffb8cc1e6b14e9e4fab46173aa79f981/termcolor-1.1.0.tar.gz
+Collecting tensorflow-estimator<1.15.0rc0,>=1.14.0rc0 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/3c/d5/21860a5b11caf0678fbc8319341b0ae21a07156911132e0e71bffed0510d/tensorflow_estimator-1.14.0-py2.py3-none-any.whl (488kB)
+    100% |████████████████████████████████| 491kB 1.3MB/s
+Collecting wrapt>=1.11.1 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/e0/80/af9da7379ee6df583875d0aeb80f9d5f0bd5f081dd1ee5ce06587d8bfec7/wrapt-1.14.1-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (74kB)
+    100% |████████████████████████████████| 81kB 3.8MB/s
+Collecting keras-applications>=1.0.6 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/71/e3/19762fdfc62877ae9102edf6342d71b28fbfd9dea3d2f96a882ce099b03f/Keras_Applications-1.0.8-py3-none-any.whl (50kB)
+    100% |████████████████████████████████| 51kB 1.9MB/s
+Collecting astor>=0.6.0 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/c3/88/97eef84f48fa04fbd6750e62dcceafba6c63c81b7ac1420856c8dcc0a3f9/astor-0.8.1-py2.py3-none-any.whl
+Collecting wheel>=0.26 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/27/d6/003e593296a85fd6ed616ed962795b2f87709c3eee2bca4f6d0fe55c6d00/wheel-0.37.1-py2.py3-none-any.whl
+Collecting absl-py>=0.7.0 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/11/8d/5fce604f03c8d30aa0d45451e67efe30d23e65eec7bbef9b9d341b86c0ef/absl_py-1.1.0-py3-none-any.whl (123kB)
+    100% |████████████████████████████████| 133kB 3.0MB/s
+Collecting tensorboard<1.15.0,>=1.14.0 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/91/2d/2ed263449a078cd9c8a9ba50ebd50123adf1f8cfbea1492f9084169b89d9/tensorboard-1.14.0-py3-none-any.whl (3.1MB)
+    100% |████████████████████████████████| 3.2MB 359kB/s
+Collecting google-pasta>=0.1.6 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/a3/de/c648ef6835192e6e2cc03f40b19eeda4382c49b5bafb43d88b931c4c74ac/google_pasta-0.2.0-py3-none-any.whl (57kB)
+    100% |████████████████████████████████| 61kB 2.2MB/s
+Collecting six>=1.10.0 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl
+Collecting gast>=0.2.0 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/5f/1c/b59500a88c5c3d9d601c5ca62b9df5e0964764472faed82a182958a922c5/gast-0.5.3-py3-none-any.whl
+Collecting protobuf>=3.6.1 (from tensorflow)
+  Downloading https://files.pythonhosted.org/packages/6c/be/4e32d02bf08b8f76bf6e59f2a531690c1e4264530404501f3489ca975d9a/protobuf-4.21.0-py2.py3-none-any.whl (164kB)
+    100% |████████████████████████████████| 174kB 3.0MB/s
+protobuf requires Python '>=3.7' but the running Python is 3.6.8
+~/biometric_systems
+hpclogin2(s212784) $ module avail python
+--------------------------------------------------------------------------- /apps/dcc/etc/ModulesSL73/modulefiles ---------------------------------------------------------------------------
+python/2.6.8           python/2.7.13_ucs4  python3/3.4.1  python3/3.6.2   python3/3.7.5   python3/3.7.11  python3/3.8.4   python3/3.9.6
+python/2.7.3(default)  python/2.7.18       python3/3.5.1  python3/3.6.7   python3/3.7.6   python3/3.8.0   python3/3.8.9   python3/3.9.10
+python/2.7.12_ucs4     python3/3.2.5       python3/3.5.4  python3/3.6.10  python3/3.7.7   python3/3.8.1   python3/3.8.11  python3/3.9.11(default)
+python/2.7.13          python3/3.3.0       python3/3.6.0  python3/3.6.13  python3/3.7.10  python3/3.8.2   python3/3.9.5   python3/3.10.2
+
+Key:
+(symbolic-version)
+~/biometric_systems
+hpclogin2(s212784) $ module load python3/3.10.2
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+~/biometric_systems
+hpclogin2(s212784) $ python3 -m pip install --user tensorflow
+Collecting tensorflow
+  Downloading tensorflow-2.9.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (511.7 MB)
+     |████████████████████████████████| 511.7 MB 15 kB/s
+Requirement already satisfied: six>=1.12.0 in /appl/python/3.10.2/lib/python3.10/site-packages (from tensorflow) (1.16.0)
+Collecting gast<=0.4.0,>=0.2.1
+  Downloading gast-0.4.0-py3-none-any.whl (9.8 kB)
+Collecting typing-extensions>=3.6.6
+  Downloading typing_extensions-4.2.0-py3-none-any.whl (24 kB)
+Collecting libclang>=13.0.0
+  Downloading libclang-14.0.1-py2.py3-none-manylinux1_x86_64.whl (14.5 MB)
+     |████████████████████████████████| 14.5 MB 74.1 MB/s
+Collecting numpy>=1.20
+  Downloading numpy-1.22.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (16.8 MB)
+     |████████████████████████████████| 16.8 MB 58.6 MB/s
+Collecting protobuf<3.20,>=3.9.2
+  Downloading protobuf-3.19.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.1 MB)
+     |████████████████████████████████| 1.1 MB 25.8 MB/s
+Collecting wrapt>=1.11.0
+  Downloading wrapt-1.14.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (77 kB)
+     |████████████████████████████████| 77 kB 4.8 MB/s
+Collecting tensorflow-io-gcs-filesystem>=0.23.1
+  Downloading tensorflow_io_gcs_filesystem-0.26.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (2.4 MB)
+     |████████████████████████████████| 2.4 MB 104.9 MB/s
+Collecting tensorboard<2.10,>=2.9
+  Downloading tensorboard-2.9.1-py3-none-any.whl (5.8 MB)
+     |████████████████████████████████| 5.8 MB 55.2 MB/s
+Collecting absl-py>=1.0.0
+  Using cached absl_py-1.1.0-py3-none-any.whl (123 kB)
+Collecting flatbuffers<2,>=1.12
+  Downloading flatbuffers-1.12-py2.py3-none-any.whl (15 kB)
+Collecting keras-preprocessing>=1.1.1
+  Downloading Keras_Preprocessing-1.1.2-py2.py3-none-any.whl (42 kB)
+     |████████████████████████████████| 42 kB 750 kB/s
+Collecting astunparse>=1.6.0
+  Downloading astunparse-1.6.3-py2.py3-none-any.whl (12 kB)
+Collecting google-pasta>=0.1.1
+  Using cached google_pasta-0.2.0-py3-none-any.whl (57 kB)
+Collecting h5py>=2.9.0
+  Downloading h5py-3.7.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (4.5 MB)
+     |████████████████████████████████| 4.5 MB 47.7 MB/s
+Requirement already satisfied: setuptools in /appl/python/3.10.2/lib/python3.10/site-packages (from tensorflow) (60.8.2)
+Collecting grpcio<2.0,>=1.24.3
+  Downloading grpcio-1.46.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.4 MB)
+     |████████████████████████████████| 4.4 MB 54.8 MB/s
+Collecting keras<2.10.0,>=2.9.0rc0
+  Downloading keras-2.9.0-py2.py3-none-any.whl (1.6 MB)
+     |████████████████████████████████| 1.6 MB 64.2 MB/s
+Collecting opt-einsum>=2.3.2
+  Downloading opt_einsum-3.3.0-py3-none-any.whl (65 kB)
+     |████████████████████████████████| 65 kB 2.6 MB/s
+Collecting packaging
+  Downloading packaging-21.3-py3-none-any.whl (40 kB)
+     |████████████████████████████████| 40 kB 5.7 MB/s
+Collecting tensorflow-estimator<2.10.0,>=2.9.0rc0
+  Downloading tensorflow_estimator-2.9.0-py2.py3-none-any.whl (438 kB)
+     |████████████████████████████████| 438 kB 73.6 MB/s
+Collecting termcolor>=1.1.0
+  Using cached termcolor-1.1.0.tar.gz (3.9 kB)
+Requirement already satisfied: wheel<1.0,>=0.23.0 in /appl/python/3.10.2/lib/python3.10/site-packages (from astunparse>=1.6.0->tensorflow) (0.37.1)
+Collecting tensorboard-plugin-wit>=1.6.0
+  Downloading tensorboard_plugin_wit-1.8.1-py3-none-any.whl (781 kB)
+     |████████████████████████████████| 781 kB 55.1 MB/s
+Collecting tensorboard-data-server<0.7.0,>=0.6.0
+  Downloading tensorboard_data_server-0.6.1-py3-none-manylinux2010_x86_64.whl (4.9 MB)
+     |████████████████████████████████| 4.9 MB 67.4 MB/s
+Collecting google-auth-oauthlib<0.5,>=0.4.1
+  Downloading google_auth_oauthlib-0.4.6-py2.py3-none-any.whl (18 kB)
+Collecting werkzeug>=1.0.1
+  Downloading Werkzeug-2.1.2-py3-none-any.whl (224 kB)
+     |████████████████████████████████| 224 kB 82.9 MB/s
+Collecting markdown>=2.6.8
+  Downloading Markdown-3.3.7-py3-none-any.whl (97 kB)
+     |████████████████████████████████| 97 kB 4.8 MB/s
+Collecting requests<3,>=2.21.0
+  Downloading requests-2.28.0-py3-none-any.whl (62 kB)
+     |████████████████████████████████| 62 kB 1.1 MB/s
+Collecting google-auth<3,>=1.6.3
+  Downloading google_auth-2.8.0-py2.py3-none-any.whl (164 kB)
+     |████████████████████████████████| 164 kB 102.3 MB/s
+Collecting cachetools<6.0,>=2.0.0
+  Downloading cachetools-5.2.0-py3-none-any.whl (9.3 kB)
+Collecting rsa<5,>=3.1.4
+  Downloading rsa-4.8-py3-none-any.whl (39 kB)
+Collecting pyasn1-modules>=0.2.1
+  Downloading pyasn1_modules-0.2.8-py2.py3-none-any.whl (155 kB)
+     |████████████████████████████████| 155 kB 60.3 MB/s
+Collecting requests-oauthlib>=0.7.0
+  Downloading requests_oauthlib-1.3.1-py2.py3-none-any.whl (23 kB)
+Collecting pyasn1<0.5.0,>=0.4.6
+  Downloading pyasn1-0.4.8-py2.py3-none-any.whl (77 kB)
+     |████████████████████████████████| 77 kB 3.9 MB/s
+Collecting urllib3<1.27,>=1.21.1
+  Downloading urllib3-1.26.9-py2.py3-none-any.whl (138 kB)
+     |████████████████████████████████| 138 kB 80.7 MB/s
+Collecting charset-normalizer~=2.0.0
+  Downloading charset_normalizer-2.0.12-py3-none-any.whl (39 kB)
+Collecting certifi>=2017.4.17
+  Downloading certifi-2022.6.15-py3-none-any.whl (160 kB)
+     |████████████████████████████████| 160 kB 57.6 MB/s
+Collecting idna<4,>=2.5
+  Downloading idna-3.3-py3-none-any.whl (61 kB)
+     |████████████████████████████████| 61 kB 5.2 MB/s
+Collecting oauthlib>=3.0.0
+  Downloading oauthlib-3.2.0-py3-none-any.whl (151 kB)
+     |████████████████████████████████| 151 kB 56.4 MB/s
+Collecting pyparsing!=3.0.5,>=2.0.2
+  Downloading pyparsing-3.0.9-py3-none-any.whl (98 kB)
+     |████████████████████████████████| 98 kB 6.1 MB/s
+Building wheels for collected packages: termcolor
+  Building wheel for termcolor (setup.py) ... done
+  Created wheel for termcolor: filename=termcolor-1.1.0-py3-none-any.whl size=4848 sha256=e20c53f3b7ef663c6cfd12cc352b7bc59a4539899039888c4a6ba81f03927788
+  Stored in directory: /zhome/c0/a/164613/.cache/pip/wheels/a1/49/46/1b13a65d8da11238af9616b00fdde6d45b0f95d9291bac8452
+Successfully built termcolor
+Installing collected packages: urllib3, pyasn1, idna, charset-normalizer, certifi, rsa, requests, pyasn1-modules, oauthlib, cachetools, requests-oauthlib, google-auth, werkzeug, tensorboard-plugin-wit, tensorboard-data-server, pyparsing, protobuf, numpy, markdown, grpcio, google-auth-oauthlib, absl-py, wrapt, typing-extensions, termcolor, tensorflow-io-gcs-filesystem, tensorflow-estimator, tensorboard, packaging, opt-einsum, libclang, keras-preprocessing, keras, h5py, google-pasta, gast, flatbuffers, astunparse, tensorflow
+  WARNING: The script normalizer is installed in '/zhome/c0/a/164613/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts pyrsa-decrypt, pyrsa-encrypt, pyrsa-keygen, pyrsa-priv2pub, pyrsa-sign and pyrsa-verify are installed in '/zhome/c0/a/164613/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts f2py, f2py3 and f2py3.10 are installed in '/zhome/c0/a/164613/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script markdown_py is installed in '/zhome/c0/a/164613/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script google-oauthlib-tool is installed in '/zhome/c0/a/164613/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script tensorboard is installed in '/zhome/c0/a/164613/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts estimator_ckpt_converter, import_pb_to_tensorboard, saved_model_cli, tensorboard, tf_upgrade_v2, tflite_convert, toco and toco_from_protos are installed in '/zhome/c0/a/164613/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+WARNING: Value for scheme.headers does not match. Please report this to <https://github.com/pypa/pip/issues/9617>
+distutils: /zhome/c0/a/164613/.local/include/python3.10/UNKNOWN
+sysconfig: /zhome/c0/a/164613/.local/include/python3.10
+WARNING: Additional context:
+user = True
+home = None
+root = None
+prefix = None
+Successfully installed absl-py-1.1.0 astunparse-1.6.3 cachetools-5.2.0 certifi-2022.6.15 charset-normalizer-2.0.12 flatbuffers-1.12 gast-0.4.0 google-auth-2.8.0 google-auth-oauthlib-0.4.6 google-pasta-0.2.0 grpcio-1.46.3 h5py-3.7.0 idna-3.3 keras-2.9.0 keras-preprocessing-1.1.2 libclang-14.0.1 markdown-3.3.7 numpy-1.22.4 oauthlib-3.2.0 opt-einsum-3.3.0 packaging-21.3 protobuf-3.19.4 pyasn1-0.4.8 pyasn1-modules-0.2.8 pyparsing-3.0.9 requests-2.28.0 requests-oauthlib-1.3.1 rsa-4.8 tensorboard-2.9.1 tensorboard-data-server-0.6.1 tensorboard-plugin-wit-1.8.1 tensorflow-2.9.1 tensorflow-estimator-2.9.0 tensorflow-io-gcs-filesystem-0.26.0 termcolor-1.1.0 typing-extensions-4.2.0 urllib3-1.26.9 werkzeug-2.1.2 wrapt-1.14.1
+WARNING: You are using pip version 21.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/appl/python/3.10.2/bin/python3 -m pip install --upgrade pip' command.
+~/biometric_systems
+hpclogin2(s212784) $ python3 -m pip install --user arcface
+Collecting arcface
+  Downloading arcface-0.0.8-py3-none-any.whl (15 kB)
+Requirement already satisfied: numpy in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from arcface) (1.22.4)
+Collecting opencv-python>=4.4
+  Downloading opencv_python-4.6.0.66-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (60.9 MB)
+     |████████████████████████████████| 60.9 MB 365 kB/s
+Collecting pyyaml>=5.3
+  Downloading PyYAML-6.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (682 kB)
+     |████████████████████████████████| 682 kB 53.4 MB/s
+Requirement already satisfied: tensorflow>=2.3.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from arcface) (2.9.1)
+Requirement already satisfied: requests>=2.24.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from arcface) (2.28.0)
+Requirement already satisfied: certifi>=2017.4.17 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from requests>=2.24.0->arcface) (2022.6.15)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from requests>=2.24.0->arcface) (1.26.9)
+Requirement already satisfied: charset-normalizer~=2.0.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from requests>=2.24.0->arcface) (2.0.12)
+Requirement already satisfied: idna<4,>=2.5 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from requests>=2.24.0->arcface) (3.3)
+Requirement already satisfied: tensorflow-io-gcs-filesystem>=0.23.1 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (0.26.0)
+Requirement already satisfied: grpcio<2.0,>=1.24.3 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (1.46.3)
+Requirement already satisfied: typing-extensions>=3.6.6 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (4.2.0)
+Requirement already satisfied: astunparse>=1.6.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (1.6.3)
+Requirement already satisfied: keras-preprocessing>=1.1.1 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (1.1.2)
+Requirement already satisfied: six>=1.12.0 in /appl/python/3.10.2/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (1.16.0)
+Requirement already satisfied: opt-einsum>=2.3.2 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (3.3.0)
+Requirement already satisfied: packaging in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (21.3)
+Requirement already satisfied: tensorflow-estimator<2.10.0,>=2.9.0rc0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (2.9.0)
+Requirement already satisfied: absl-py>=1.0.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (1.1.0)
+Requirement already satisfied: google-pasta>=0.1.1 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (0.2.0)
+Requirement already satisfied: protobuf<3.20,>=3.9.2 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (3.19.4)
+Requirement already satisfied: termcolor>=1.1.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (1.1.0)
+Requirement already satisfied: libclang>=13.0.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (14.0.1)
+Requirement already satisfied: tensorboard<2.10,>=2.9 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (2.9.1)
+Requirement already satisfied: gast<=0.4.0,>=0.2.1 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (0.4.0)
+Requirement already satisfied: flatbuffers<2,>=1.12 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (1.12)
+Requirement already satisfied: setuptools in /appl/python/3.10.2/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (60.8.2)
+Requirement already satisfied: h5py>=2.9.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (3.7.0)
+Requirement already satisfied: wrapt>=1.11.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (1.14.1)
+Requirement already satisfied: keras<2.10.0,>=2.9.0rc0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorflow>=2.3.0->arcface) (2.9.0)
+Requirement already satisfied: wheel<1.0,>=0.23.0 in /appl/python/3.10.2/lib/python3.10/site-packages (from astunparse>=1.6.0->tensorflow>=2.3.0->arcface) (0.37.1)
+Requirement already satisfied: google-auth<3,>=1.6.3 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (2.8.0)
+Requirement already satisfied: tensorboard-plugin-wit>=1.6.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (1.8.1)
+Requirement already satisfied: markdown>=2.6.8 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (3.3.7)
+Requirement already satisfied: werkzeug>=1.0.1 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (2.1.2)
+Requirement already satisfied: tensorboard-data-server<0.7.0,>=0.6.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (0.6.1)
+Requirement already satisfied: google-auth-oauthlib<0.5,>=0.4.1 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (0.4.6)
+Requirement already satisfied: rsa<5,>=3.1.4 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from google-auth<3,>=1.6.3->tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (4.8)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from google-auth<3,>=1.6.3->tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (0.2.8)
+Requirement already satisfied: cachetools<6.0,>=2.0.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from google-auth<3,>=1.6.3->tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (5.2.0)
+Requirement already satisfied: requests-oauthlib>=0.7.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from google-auth-oauthlib<0.5,>=0.4.1->tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (1.3.1)
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.6 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from pyasn1-modules>=0.2.1->google-auth<3,>=1.6.3->tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (0.4.8)
+Requirement already satisfied: oauthlib>=3.0.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from requests-oauthlib>=0.7.0->google-auth-oauthlib<0.5,>=0.4.1->tensorboard<2.10,>=2.9->tensorflow>=2.3.0->arcface) (3.2.0)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from packaging->tensorflow>=2.3.0->arcface) (3.0.9)
+Installing collected packages: pyyaml, opencv-python, arcface
+WARNING: Value for scheme.headers does not match. Please report this to <https://github.com/pypa/pip/issues/9617>
+distutils: /zhome/c0/a/164613/.local/include/python3.10/UNKNOWN
+sysconfig: /zhome/c0/a/164613/.local/include/python3.10
+WARNING: Additional context:
+user = True
+home = None
+root = None
+prefix = None
+Successfully installed arcface-0.0.8 opencv-python-4.6.0.66 pyyaml-6.0
+WARNING: You are using pip version 21.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/appl/python/3.10.2/bin/python3 -m pip install --upgrade pip' command.
+~/biometric_systems
+hpclogin2(s212784) $ python3 -m pip install --user opencv
+ERROR: Could not find a version that satisfies the requirement opencv (from versions: none)
+ERROR: No matching distribution found for opencv
+WARNING: You are using pip version 21.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/appl/python/3.10.2/bin/python3 -m pip install --upgrade pip' command.
+~/biometric_systems
+hpclogin2(s212784) $ python3 -m pip install --user opencv-python
+Requirement already satisfied: opencv-python in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (4.6.0.66)
+Requirement already satisfied: numpy>=1.19.3 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from opencv-python) (1.22.4)
+WARNING: Value for scheme.headers does not match. Please report this to <https://github.com/pypa/pip/issues/9617>
+distutils: /zhome/c0/a/164613/.local/include/python3.10/UNKNOWN
+sysconfig: /zhome/c0/a/164613/.local/include/python3.10
+WARNING: Additional context:
+user = True
+home = None
+root = None
+prefix = None
+WARNING: You are using pip version 21.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/appl/python/3.10.2/bin/python3 -m pip install --upgrade pip' command.
+~/biometric_systems
+hpclogin2(s212784) $ python3 -m pip install --user tqdm
+Collecting tqdm
+  Downloading tqdm-4.64.0-py2.py3-none-any.whl (78 kB)
+     |████████████████████████████████| 78 kB 1.5 MB/s
+Installing collected packages: tqdm
+  WARNING: The script tqdm is installed in '/zhome/c0/a/164613/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+WARNING: Value for scheme.headers does not match. Please report this to <https://github.com/pypa/pip/issues/9617>
+distutils: /zhome/c0/a/164613/.local/include/python3.10/UNKNOWN
+sysconfig: /zhome/c0/a/164613/.local/include/python3.10
+WARNING: Additional context:
+user = True
+home = None
+root = None
+prefix = None
+Successfully installed tqdm-4.64.0
+WARNING: You are using pip version 21.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/appl/python/3.10.2/bin/python3 -m pip install --upgrade pip' command.
+~/biometric_systems
+hpclogin2(s212784) $ python3 -m pip install --user os
+ERROR: Could not find a version that satisfies the requirement os (from versions: none)
+ERROR: No matching distribution found for os
+WARNING: You are using pip version 21.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/appl/python/3.10.2/bin/python3 -m pip install --upgrade pip' command.
+~/biometric_systems
+hpclogin2(s212784) $ python3 -m pip install --user os-sys
+Collecting os-sys
+  Downloading os_sys-2.1.4-py3-none-any.whl (15.6 MB)
+     |████████████████████████████████| 15.6 MB 2.2 MB/s
+Collecting selenium
+  Downloading selenium-4.2.0-py3-none-any.whl (983 kB)
+     |████████████████████████████████| 983 kB 23.6 MB/s
+Collecting os-sys
+  Downloading os_sys-2.1.3-py3-none-any.whl (15.5 MB)
+     |████████████████████████████████| 15.5 MB 42.8 MB/s
+  Downloading os_sys-2.1.2-py3-none-any.whl (15.4 MB)
+     |████████████████████████████████| 15.4 MB 54.9 MB/s
+  Downloading os_sys-2.1.1-py3-none-any.whl (15.4 MB)
+     |████████████████████████████████| 15.4 MB 21.7 MB/s
+  Downloading os_sys-2.1.0-py3-none-any.whl (15.9 MB)
+     |████████████████████████████████| 15.9 MB 33.3 MB/s
+  Downloading os_sys-2.0.9-py3-none-any.whl (15.4 MB)
+     |████████████████████████████████| 15.4 MB 34.3 MB/s
+  Downloading os_sys-2.0.8-py3-none-any.whl (15.4 MB)
+     |████████████████████████████████| 15.4 MB 52.8 MB/s
+  Downloading os_sys-2.0.7-py3-none-any.whl (14.2 MB)
+     |████████████████████████████████| 14.2 MB 36.2 MB/s
+  Downloading os_sys-2.0.6-py3-none-any.whl (14.2 MB)
+     |████████████████████████████████| 14.2 MB 40.9 MB/s
+  Downloading os_sys-2.0.5-py3-none-any.whl (12.2 MB)
+     |████████████████████████████████| 12.2 MB 33.3 MB/s
+  Downloading os_sys-2.0.4-py3-none-any.whl (50.9 MB)
+     |████████████████████████████████| 50.9 MB 62.4 MB/s
+  Downloading os_sys-2.0.3-py3-none-any.whl (51.8 MB)
+     |████████████████████████████████| 51.8 MB 34.6 MB/s
+  Downloading os_sys-2.0.2-py3-none-any.whl (54.1 MB)
+     |████████████████████████████████| 54.1 MB 36.8 MB/s
+  Downloading os_sys-2.0.1-py3-none-any.whl (54.1 MB)
+     |████████████████████████████████| 54.1 MB 22.9 MB/s
+  Downloading os_sys-2.0.0-py3-none-any.whl (54.1 MB)
+     |████████████████████████████████| 54.1 MB 27.0 MB/s
+  Downloading os_sys-1.9.9-py3-none-any.whl (54.1 MB)
+     |████████████████████████████████| 54.1 MB 66.8 MB/s
+  Downloading os_sys-1.9.8-py3-none-any.whl (54.1 MB)
+     |████████████████████████████████| 54.1 MB 31.2 MB/s
+  Downloading os_sys-1.9.7-py3-none-any.whl (54.1 MB)
+     |████████████████████████████████| 54.1 MB 51.7 MB/s
+  Downloading os_sys-1.9.6-py3-none-any.whl (54.1 MB)
+     |████████████████████████████████| 54.1 MB 66.6 MB/s
+  Downloading os_sys-1.9.5-py3-none-any.whl (54.1 MB)
+     |████████████████████████████████| 54.1 MB 53.7 MB/s
+  Downloading os_sys-1.9.4-py3-none-any.whl (54.1 MB)
+     |████████████████████████████████| 54.1 MB 32.5 MB/s
+  Downloading os_sys-1.9.3-py3-none-any.whl (60.4 MB)
+     |████████████████████████████████| 60.4 MB 24.3 MB/s
+ERROR: os-sys has an invalid wheel, could not read 'os_sys-1.9.3.dist-info/WHEEL' file: KeyError("There is no item named 'os_sys-1.9.3.dist-info/WHEEL' in the archive")
+WARNING: You are using pip version 21.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/appl/python/3.10.2/bin/python3 -m pip install --upgrade pip' command.
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     main.py        match_emb              matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb       __pycache__
+auxiliar.py       data-generation.py  match_cos      match_emb.txt          matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt   README.md
+data              landmarks.ipynb     match_cos.txt  matrix_cos_similiaity  matrix_distance            notmatch_cos.txt     probes_arcface.py  selected_photos.csv
+~/biometric_systems
+hpclogin2(s212784) $ module list
+Currently Loaded Modulefiles:
+ 1) latex/TeXLive19(default)   2) gcc/10.3.0-binutils-2.36.1 <aL>   3) python3/3.10.2
+
+Key:
+(symbolic-version)  <module-tag>  <aL>=auto-loaded
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+bsub error: Command script has DOS line endings!
+            Use the dos2unix command to convert your script file.
+Request aborted by esub. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     main.py        match_emb              matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb       __pycache__          submit.out
+auxiliar.py       data-generation.py  match_cos      match_emb.txt          matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt   README.md            submit.sh
+data              landmarks.ipynb     match_cos.txt  matrix_cos_similiaity  matrix_distance            notmatch_cos.txt     probes_arcface.py  selected_photos.csv
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+bsub error: Command script has DOS line endings!
+            Use the dos2unix command to convert your script file.
+Request aborted by esub. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     main.py        match_emb              matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb       __pycache__          submit.out
+auxiliar.py       data-generation.py  match_cos      match_emb.txt          matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt   README.md            submit.sh
+data              landmarks.ipynb     match_cos.txt  matrix_cos_similiaity  matrix_distance            notmatch_cos.txt     probes_arcface.py  selected_photos.csv
+~/biometric_systems
+hpclogin2(s212784) $ cat submit.sh
+#!/bin/sh
+### General options
+### -- specify queue --
+#BSUB -q hpc
+### -- set the job Name --
+#BSUB -J Alex_bio
+### -- ask for number of cores (default: 1) --
+#BSUB -n 6
+### -- specify that the cores must be on the same host --
+#BSUB -R "span[hosts=1]"
+### -- specify that we need 2GB of memory per core/slot --
+#BSUB -R "rusage[mem=2GB]"
+### -- specify that we want the job to get killed if it exceeds 3 GB per core/slot --
+#BSUB -M 3GB
+### -- set walltime limit: hh:mm --
+#BSUB -W 100:00
+### -- set the email address --
+# please uncomment the following line and put in your e-mail address,
+# if you want to receive e-mail notifications on a non-default address
+##BSUB -u your_email_address
+### -- send notification at start --
+#BSUB -B
+### -- send notification at completion --
+#BSUB -N
+### -- Specify the output and error file. %J is the job-id --
+### -- -o and -e mean append, -oo and -eo mean overwrite --
+#BSUB -o Output_%J.out
+#BSUB -e Error_%J.err
+
+
+
+
+# here follow the commands you want to execute
+python3/3.10.2 data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ dos2unix submit.sh
+dos2unix: converting file submit.sh to Unix format ...
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+Guarantee SLA and user mismatch. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ ^C
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     main.py        match_emb              matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb       __pycache__          submit.out
+auxiliar.py       data-generation.py  match_cos      match_emb.txt          matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt   README.md            submit.sh
+data              landmarks.ipynb     match_cos.txt  matrix_cos_similiaity  matrix_distance            notmatch_cos.txt     probes_arcface.py  selected_photos.csv
+~/biometric_systems
+hpclogin2(s212784) $
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+Guarantee SLA and user mismatch. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh
+Guarantee SLA and user mismatch. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ ^C
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+steno: User cannot use the queue. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     landmarks.ipynb  match_cos.txt  matrix_cos_similiaity      matrix_distance      notmatch_cos.txt  Output_13717115.out  README.md            submit.sh
+auxiliar.py       data-generation.py  main.py          match_emb      matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb      probes_arcface.py    selected_photos.csv
+data              Error_13717115.err  match_cos        match_emb.txt  matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt  __pycache__          submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Output_13717115.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717115.err
+/zhome/c0/a/164613/.lsbatch/1655476166.13717115.shell: line 36: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     landmarks.ipynb  match_cos.txt  matrix_cos_similiaity      matrix_distance      notmatch_cos.txt  Output_13717115.out  README.md            submit.sh
+auxiliar.py       data-generation.py  main.py          match_emb      matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb      probes_arcface.py    selected_photos.csv
+data              Error_13717115.err  match_cos        match_emb.txt  matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt  __pycache__          submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717115   s212784 hpc        Alex_bio        2 RUN   Jun 17 16:29    0:01:24
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     landmarks.ipynb  match_cos.txt  matrix_cos_similiaity      matrix_distance      notmatch_cos.txt  Output_13717115.out  README.md            submit.sh
+auxiliar.py       data-generation.py  main.py          match_emb      matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb      probes_arcface.py    selected_photos.csv
+data              Error_13717115.err  match_cos        match_emb.txt  matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt  __pycache__          submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+No running job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     landmarks.ipynb  match_cos.txt  matrix_cos_similiaity      matrix_distance      notmatch_cos.txt  Output_13717115.out  README.md            submit.sh
+auxiliar.py       data-generation.py  main.py          match_emb      matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb      probes_arcface.py    selected_photos.csv
+data              Error_13717115.err  match_cos        match_emb.txt  matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt  __pycache__          submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     landmarks.ipynb  match_cos.txt  matrix_cos_similiaity      matrix_distance      notmatch_cos.txt  Output_13717115.out  README.md            submit.sh
+auxiliar.py       data-generation.py  main.py          match_emb      matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb      probes_arcface.py    selected_photos.csv
+data              Error_13717115.err  match_cos        match_emb.txt  matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt  __pycache__          submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717115.err
+/zhome/c0/a/164613/.lsbatch/1655476166.13717115.shell: line 36: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     landmarks.ipynb  match_cos.txt  matrix_cos_similiaity      matrix_distance      notmatch_cos.txt  Output_13717115.out  README.md            submit.sh
+auxiliar.py       data-generation.py  main.py          match_emb      matrix_cos_similiaity.csv  matrix_distance.csv  notmatch_emb      probes_arcface.py    selected_photos.csv
+data              Error_13717115.err  match_cos        match_emb.txt  matrixdataframe.ipynb      notmatch_cos         notmatch_emb.txt  __pycache__          submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Output_13717115.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717115.err
+/zhome/c0/a/164613/.lsbatch/1655476166.13717115.shell: line 36: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717291   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717291   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:02    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717291   s212784 hpc        Alex_bio        2    0.0M   -0.0-    3.0G    0.0
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data             data-generation.py  Error_13717291.err  main.py                Output_13717115.out  probes_arcface.py  README.md            submit.out
+auxiliar.py       dataframe.ipynb  Error_13717115.err  landmarks.ipynb     matrixdataframe.ipynb  Output_13717291.out  __pycache__        selected_photos.csv  submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717291.err
+/zhome/c0/a/164613/.lsbatch/1655478168.13717291.shell: line 36: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+bsub error: Command script has DOS line endings!
+            Use the dos2unix command to convert your script file.
+Request aborted by esub. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ dos2unix submit.sh
+dos2unix: converting file submit.sh to Unix format ...
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+Guarantee SLA and user mismatch. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+bsub error: Command script has DOS line endings!
+            Use the dos2unix command to convert your script file.
+Request aborted by esub. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ dos2unix submit.sh
+dos2unix: converting file submit.sh to Unix format ...
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+Guarantee SLA and user mismatch. Job not submitted.
+~/biometric_systems
+hpclogin2(s212784) $ cat submit.sh
+#!/bin/sh
+### General options
+### -- specify queue --
+#BSUB -q hpc
+### -- set the job Name --
+#BSUB -J Alex_bio
+### -- ask for number of cores (default: 1) --
+#BSUB -n 2
+### -- specify that the cores must be on the same host --
+#BSUB -R "span[hosts=1]"
+### -- specify that we need 2GB of memory per core/slot --
+#BSUB -R "rusage[mem=2GB]"
+### -- specify that we want the job to get killed if it exceeds 3 GB per core/slot --
+#BSUB -M 3GB
+### -- set walltime limit: hh:mm --
+#BSUB -W 100:00
+### -- set the email address --
+# please uncomment the following line and put in your e-mail address,
+# if you want to receive e-mail notifications on a non-default address
+##BSUB -u your_email_address
+### -- send notification at start --
+#BSUB -B
+### -- send notification at completion --
+#BSUB -N
+### -- Specify the output and error file. %J is the job-id --
+### -- -o and -e mean append, -oo and -eo mean overwrite --
+#BSUB -o Output_%J.out
+#BSUB -e Error_%J.err
+
+# -- run in the current working (submission) directory --
+if test X$PBS_ENVIRONMENT = XPBS_BATCH; then cd $PBS_O_WORKDIR; fi
+
+# here follow the commands you want to execute
+python3/3.10.2 /zhome/c0/a/164613/biometric_systems/data-generation.py~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data             data-generation.py  Error_13717291.err  landmarks.ipynb  matrixdataframe.ipynb  Output_13717291.out  probes_arcface.py  README.md            submit.out
+auxiliar.py       dataframe.ipynb  Error_13717115.err  Error_13717301.err  main.py          Output_13717115.out    Output_13717301.out  __pycache__        selected_photos.csv  submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717301.err
+/zhome/c0/a/164613/.lsbatch/1655478475.13717301.shell: line 34: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717317   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:11    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717317   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:11    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717317   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:11    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717317   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:11    0:00:04
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     Error_13717291.err  landmarks.ipynb        Output_13717115.out  Output_13717317.out  README.md            submit.sh
+auxiliar.py       data-generation.py  Error_13717301.err  main.py                Output_13717291.out  probes_arcface.py    selected_photos.csv
+data              Error_13717115.err  Error_13717317.err  matrixdataframe.ipynb  Output_13717301.out  __pycache__          submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717317.err
+/zhome/c0/a/164613/.lsbatch/1655478661.13717317.shell: line 34: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ ^C
+~/biometric_systems
+hpclogin2(s212784) $ dos2unix submit.sh
+dos2unix: converting file submit.sh to Unix format ...
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     Error_13717291.err  Error_13717329.err  matrixdataframe.ipynb  Output_13717301.out  probes_arcface.py  selected_photos.csv
+auxiliar.py       data-generation.py  Error_13717301.err  landmarks.ipynb     Output_13717115.out    Output_13717317.out  __pycache__        submit.out
+data              Error_13717115.err  Error_13717317.err  main.py             Output_13717291.out    Output_13717329.out  README.md          submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717329.err
+/zhome/c0/a/164613/.lsbatch/1655478806.13717329.shell: line 37: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ dos2unix submit.sh
+dos2unix: converting file submit.sh to Unix format ...
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     Error_13717291.err  Error_13717329.err  main.py                Output_13717291.out  Output_13717329.out  __pycache__          submit.out
+auxiliar.py       data-generation.py  Error_13717301.err  Error_13717331.err  matrixdataframe.ipynb  Output_13717301.out  Output_13717331.out  README.md            submit.sh
+data              Error_13717115.err  Error_13717317.err  landmarks.ipynb     Output_13717115.out    Output_13717317.out  probes_arcface.py    selected_photos.csv
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717331.err
+/zhome/c0/a/164613/.lsbatch/1655478853.13717331.shell: line 40: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ dos2unix submit.sh
+dos2unix: converting file submit.sh to Unix format ...
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717368   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:24    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717368   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:24    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717368   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:24    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717368   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:24    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data-generation.py  Error_13717317.err  landmarks.ipynb        Output_13717291.out  Output_13717331.out  README.md
+auxiliar.py       Error_13717115.err  Error_13717329.err  main.py                Output_13717301.out  Output_13717368.out  selected_photos.csv
+data              Error_13717291.err  Error_13717331.err  matrixdataframe.ipynb  Output_13717317.out  probes_arcface.py    submit.out
+dataframe.ipynb   Error_13717301.err  Error_13717368.err  Output_13717115.out    Output_13717329.out  __pycache__          submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717368.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+/zhome/c0/a/164613/.lsbatch/1655479488.13717368.shell: line 38: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data-generation.py  Error_13717317.err  landmarks.ipynb        Output_13717291.out  Output_13717331.out  README.md
+auxiliar.py       Error_13717115.err  Error_13717329.err  main.py                Output_13717301.out  Output_13717368.out  selected_photos.csv
+data              Error_13717291.err  Error_13717331.err  matrixdataframe.ipynb  Output_13717317.out  probes_arcface.py    submit.out
+dataframe.ipynb   Error_13717301.err  Error_13717368.err  Output_13717115.out    Output_13717329.out  __pycache__          submit.sh
+~/biometric_systems
+hpclogin2(s212784) $
+~/biometric_systems
+hpclogin2(s212784) $ chmod +x data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data-generation.py  Error_13717317.err  landmarks.ipynb        Output_13717291.out  Output_13717331.out  README.md
+auxiliar.py       Error_13717115.err  Error_13717329.err  main.py                Output_13717301.out  Output_13717368.out  selected_photos.csv
+data              Error_13717291.err  Error_13717331.err  matrixdataframe.ipynb  Output_13717317.out  probes_arcface.py    submit.out
+dataframe.ipynb   Error_13717301.err  Error_13717368.err  Output_13717115.out    Output_13717329.out  __pycache__          submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ bsub submit.sh
+bsub info: Job has no name! Setting it to NONAME!
+bsub info: Job has no wall-clock time! Setting it to 15 minutes!
+bsub info: Job has no output file! Setting it to NONAME_%J.out!
+bsub info: Job has no memory requirements! Setting it to 1024 MB!
+bsub info:   You need to specify at least -R "rusage[mem=...]"!
+Job <13717404> is submitted to default queue <hpc>.
+~/biometric_systems
+hpclogin2(s212784) $ cat submit.sh
+#!/bin/sh
+### General options
+### -- specify queue --
+#BSUB -q hpc
+### -- set the job Name --
+#BSUB -J Alex_bio
+### -- ask for number of cores (default: 1) --
+#BSUB -n 2
+### -- specify that the cores must be on the same host --
+#BSUB -R "span[hosts=1]"
+### -- specify that we need 2GB of memory per core/slot --
+#BSUB -R "rusage[mem=2GB]"
+### -- specify that we want the job to get killed if it exceeds 3 GB per core/slot --
+#BSUB -M 3GB
+### -- set walltime limit: hh:mm --
+#BSUB -W 72:00
+### -- set the email address --
+# please uncomment the following line and put in your e-mail address,
+# if you want to receive e-mail notifications on a non-default address
+##BSUB -u your_email_address
+### -- send notification at start --
+#BSUB -B
+### -- send notification at completion --
+#BSUB -N
+### -- Specify the output and error file. %J is the job-id --
+### -- -o and -e mean append, -oo and -eo mean overwrite --
+#BSUB -o Output_%J.out
+#BSUB -e Error_%J.err
+
+# -- run in the current working (submission) directory --
+if test X$PBS_ENVIRONMENT = XPBS_BATCH; then cd $PBS_O_WORKDIR; fi
+
+
+
+# here follow the commands you want to execute
+module load python3/3.10.2
+
+python3/3.10.2 /zhome/c0/a/164613/biometric_systems/data-generation.py~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data-generation.py  Error_13717317.err  landmarks.ipynb        Output_13717115.out  Output_13717329.out  __pycache__          submit.sh
+auxiliar.py       Error_13717115.err  Error_13717329.err  main.py                Output_13717291.out  Output_13717331.out  README.md
+data              Error_13717291.err  Error_13717331.err  matrixdataframe.ipynb  Output_13717301.out  Output_13717368.out  selected_photos.csv
+dataframe.ipynb   Error_13717301.err  Error_13717368.err  NONAME_13717404.out    Output_13717317.out  probes_arcface.py    submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717408   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:35    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717408   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:35    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717408   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:35    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717408   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:35    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717408   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:35    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717408   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:35    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717408   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:35    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717408   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:35    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717408   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:35    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data-generation.py  Error_13717317.err  Error_13717408.err     NONAME_13717404.out  Output_13717317.out  Output_13717408.out  selected_photos.csv
+auxiliar.py       Error_13717115.err  Error_13717329.err  landmarks.ipynb        Output_13717115.out  Output_13717329.out  probes_arcface.py    submit.out
+data              Error_13717291.err  Error_13717331.err  main.py                Output_13717291.out  Output_13717331.out  __pycache__          submit.sh
+dataframe.ipynb   Error_13717301.err  Error_13717368.err  matrixdataframe.ipynb  Output_13717301.out  Output_13717368.out  README.md
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717408.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+/zhome/c0/a/164613/.lsbatch/1655480109.13717408.shell: line 38: python3/3.10.2: No such file or directory
+~/biometric_systems
+hpclogin2(s212784) $ cat submit.sh
+#!/bin/sh
+### General options
+### -- specify queue --
+#BSUB -q hpc
+### -- set the job Name --
+#BSUB -J Alex_bio
+### -- ask for number of cores (default: 1) --
+#BSUB -n 2
+### -- specify that the cores must be on the same host --
+#BSUB -R "span[hosts=1]"
+### -- specify that we need 2GB of memory per core/slot --
+#BSUB -R "rusage[mem=2GB]"
+### -- specify that we want the job to get killed if it exceeds 3 GB per core/slot --
+#BSUB -M 3GB
+### -- set walltime limit: hh:mm --
+#BSUB -W 72:00
+### -- set the email address --
+# please uncomment the following line and put in your e-mail address,
+# if you want to receive e-mail notifications on a non-default address
+##BSUB -u your_email_address
+### -- send notification at start --
+#BSUB -B
+### -- send notification at completion --
+#BSUB -N
+### -- Specify the output and error file. %J is the job-id --
+### -- -o and -e mean append, -oo and -eo mean overwrite --
+#BSUB -o Output_%J.out
+#BSUB -e Error_%J.err
+
+# -- run in the current working (submission) directory --
+if test X$PBS_ENVIRONMENT = XPBS_BATCH; then cd $PBS_O_WORKDIR; fi
+
+
+
+# here follow the commands you want to execute
+module load python3/3.10.2
+
+python3/3.10.2 /zhome/c0/a/164613/biometric_systems/data-generation.py~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data-generation.py  Error_13717317.err  Error_13717408.err     NONAME_13717404.out  Output_13717317.out  Output_13717408.out  selected_photos.csv
+auxiliar.py       Error_13717115.err  Error_13717329.err  landmarks.ipynb        Output_13717115.out  Output_13717329.out  probes_arcface.py    submit.out
+data              Error_13717291.err  Error_13717331.err  main.py                Output_13717291.out  Output_13717331.out  __pycache__          submit.sh
+dataframe.ipynb   Error_13717301.err  Error_13717368.err  matrixdataframe.ipynb  Output_13717301.out  Output_13717368.out  README.md
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:38    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:38    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:38    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:38    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:38    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:38    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:38    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:38    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717442   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:38    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+No running job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data-generation.py  Error_13717317.err  Error_13717408.err  matrixdataframe.ipynb  Output_13717301.out  Output_13717368.out  __pycache__          submit.sh
+auxiliar.py       Error_13717115.err  Error_13717329.err  Error_13717442.err  NONAME_13717404.out    Output_13717317.out  Output_13717408.out  README.md
+data              Error_13717291.err  Error_13717331.err  landmarks.ipynb     Output_13717115.out    Output_13717329.out  Output_13717442.out  selected_photos.csv
+dataframe.ipynb   Error_13717301.err  Error_13717368.err  main.py             Output_13717291.out    Output_13717331.out  probes_arcface.py    submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat
+aux_dataframe.py       Error_13717115.err     Error_13717331.err     landmarks.ipynb        Output_13717291.out    Output_13717368.out    README.md
+auxiliar.py            Error_13717291.err     Error_13717368.err     main.py                Output_13717301.out    Output_13717408.out    selected_photos.csv
+data/                  Error_13717301.err     Error_13717408.err     matrixdataframe.ipynb  Output_13717317.out    Output_13717442.out    submit.out
+dataframe.ipynb        Error_13717317.err     Error_13717442.err     NONAME_13717404.out    Output_13717329.out    probes_arcface.py      submit.sh
+data-generation.py     Error_13717329.err     .gitignore             Output_13717115.out    Output_13717331.out    __pycache__/
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717442.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Traceback (most recent call last):
+  File "/zhome/c0/a/164613/biometric_systems/data-generation.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+~/biometric_systems
+hpclogin2(s212784) $ cat data-generation.py
+import numpy as np
+import pandas as pd
+import auxiliar as ax
+from os import listdir
+from os.path import isfile, join
+from tqdm import tqdm
+from arcface import ArcFace
+
+if __name__ == "__main__":
+    # specify path
+    path = r'/zhome/c0/a/164613/biometric_systems/'
+
+    onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
+
+    # Create a dataframe
+    idx = onlyfiles
+    idx_2 = idx.copy()
+
+    df_emb = pd.DataFrame(index=idx, columns=idx)
+    df_cos = df_emb.copy()
+
+    match_emb = []
+    notmatch_emb = []
+
+    match_cos = []
+    notmatch_cos = []
+
+    errors = np.array([['Photo1', 'Photo2']])
+
+    counter = 0
+    for file1 in tqdm(idx):
+
+        for file2 in idx_2:
+            # Get full paths of each photo
+            path1 = path+file1
+            path2 = path+file2
+
+            # Calculate the embeding distance and cos similiratity for each pair of photos
+            try:
+                emb_dist, cos_sim  = ax.comparefaces(path1, path2)
+            except FileNotFoundError:
+
+                print(f'Problem with photo1: {path1}')
+                print(f'Problem with photo2: {path2}')
+
+                err = np.array([[file1, file2]])
+                errors = np.r_[errors, err]
+                pass
+
+            # Store the embeding distance in the dataframe
+            df_emb[file1][file2] = emb_dist
+            df_emb[file2][file1] = emb_dist
+
+            # Store the Cos similarity in the dataframe
+            df_cos[file1][file2] = cos_sim
+            df_cos[file2][file1] = cos_sim
+
+            # Check for matches
+            if file1.split('d')[0] == file2.split('d')[0]:
+                if emb_dist:
+                    match_emb.append(emb_dist)
+                    match_cos.append(cos_sim)
+            # Check for not macthes
+            else:
+                # It's not a match
+                notmatch_emb.append(emb_dist)
+                notmatch_cos.append(cos_sim)
+
+
+        # Drop first index
+        idx_2.pop(0)
+
+        # Save checkpoints
+        if not(counter % 2):
+            # Save txt files
+            np.savetxt('match_emb.txt', match_emb, delimiter=',')
+            # Save dataframes
+            df_emb.to_csv('matrix_distance.csv')
+        counter += 1
+
+
+    # Save txt files
+    np.savetxt('match_emb.txt', match_emb, delimiter=',')
+    np.savetxt('match_cos.txt', match_cos, delimiter=',')
+    np.savetxt('notmatch_emb.txt', notmatch_emb, delimiter=',')
+    np.savetxt('notmatch_cos.txt', notmatch_cos, delimiter=',')
+    # Save dataframes
+    df_emb.to_csv('matrix_distance.csv')
+    df_cos.to_csv('matrix_cos_similiaity.csv')~/biometric_systems
+hpclogin2(s212784) $ module avail pandas
+--------------------------------------------------------------------------- /apps/dcc/etc/ModulesSL73/modulefiles ---------------------------------------------------------------------------
+pandas/0.16.2-python-2.7.3  pandas/0.23-python-2.7.13   pandas/1.0.3-python-3.7.6  pandas/1.1.3-python-3.8.4   pandas/1.2.4-python-3.9.5   pandas/1.4.1-python-3.9.10
+pandas/0.20.3-python-2.7.3  pandas/0.25.3-python-3.7.5  pandas/1.0.3-python-3.7.7  pandas/1.1.5-python-3.6.13  pandas/1.3.1-python-3.7.11  pandas/1.4.1-python-3.9.11
+pandas/0.20.3-python-3.5.4  pandas/0.25.3-python-3.8.0  pandas/1.0.3-python-3.8.1  pandas/1.2.4-python-3.7.10  pandas/1.3.1-python-3.8.11  pandas/1.4.1-python-3.10.2
+pandas/0.20.3-python-3.6.2  pandas/1.0.3-python-3.6.10  pandas/1.0.3-python-3.8.2  pandas/1.2.4-python-3.8.9   pandas/1.3.1-python-3.9.6
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717457   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717457   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717457   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717457   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717457   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:41    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717457   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:41    0:00:23
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717457   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:41    0:00:23
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717457   s212784 hpc        Alex_bio        2   98.0M   98.0M   98.0M    6.0G
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data-generation.py  Error_13717317.err  Error_13717408.err  main.py                Output_13717291.out  Output_13717331.out  Output_13717457.out  selected_photos.csv
+auxiliar.py       Error_13717115.err  Error_13717329.err  Error_13717442.err  matrixdataframe.ipynb  Output_13717301.out  Output_13717368.out  probes_arcface.py    submit.out
+data              Error_13717291.err  Error_13717331.err  Error_13717457.err  NONAME_13717404.out    Output_13717317.out  Output_13717408.out  __pycache__          submit.sh
+dataframe.ipynb   Error_13717301.err  Error_13717368.err  landmarks.ipynb     Output_13717115.out    Output_13717329.out  Output_13717442.out  README.md
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717457   s212784 hpc        Alex_bio        2   98.0M   98.0M   98.0M    6.0G
+~/biometric_systems
+hpclogin2(s212784) $ cat submit.sh
+#!/bin/sh
+### General options
+### -- specify queue --
+#BSUB -q hpc
+### -- set the job Name --
+#BSUB -J Alex_bio
+### -- ask for number of cores (default: 1) --
+#BSUB -n 2
+### -- specify that the cores must be on the same host --
+#BSUB -R "span[hosts=1]"
+### -- specify that we need 2GB of memory per core/slot --
+#BSUB -R "rusage[mem=2GB]"
+### -- specify that we want the job to get killed if it exceeds 3 GB per core/slot --
+#BSUB -M 3GB
+### -- set walltime limit: hh:mm --
+#BSUB -W 72:00
+### -- set the email address --
+# please uncomment the following line and put in your e-mail address,
+# if you want to receive e-mail notifications on a non-default address
+##BSUB -u your_email_address
+### -- send notification at start --
+#BSUB -B
+### -- send notification at completion --
+#BSUB -N
+### -- Specify the output and error file. %J is the job-id --
+### -- -o and -e mean append, -oo and -eo mean overwrite --
+#BSUB -o Output_%J.out
+#BSUB -e Error_%J.err
+
+# -- run in the current working (submission) directory --
+if test X$PBS_ENVIRONMENT = XPBS_BATCH; then cd $PBS_O_WORKDIR; fi
+
+
+
+# here follow the commands you want to execute
+module load python3/3.10.2
+module load pandas/1.4.1-python-3.10.2
+python3 /zhome/c0/a/164613/biometric_systems/data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data-generation.py  Error_13717317.err  Error_13717408.err  main.py                Output_13717291.out  Output_13717331.out  Output_13717457.out  selected_photos.csv
+auxiliar.py       Error_13717115.err  Error_13717329.err  Error_13717442.err  matrixdataframe.ipynb  Output_13717301.out  Output_13717368.out  probes_arcface.py    submit.out
+data              Error_13717291.err  Error_13717331.err  Error_13717457.err  NONAME_13717404.out    Output_13717317.out  Output_13717408.out  __pycache__          submit.sh
+dataframe.ipynb   Error_13717301.err  Error_13717368.err  landmarks.ipynb     Output_13717115.out    Output_13717329.out  Output_13717442.out  README.md
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717457.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded dependency [numpy/1.22.2-python-3.10.2-openblas-0.3.19]: openblas/0.3.19
+Loaded dependency [pandas/1.4.1-python-3.10.2]: numpy/1.22.2-python-3.10.2-openblas-0.3.19
+Loaded module: pandas/1.4.1-python-3.10.2
+
+Loading pandas/1.4.1-python-3.10.2
+  Loading requirement: openblas/0.3.19
+    numpy/1.22.2-python-3.10.2-openblas-0.3.19
+2022-06-17 17:41:31.216859: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /appl/pandas/1.4.1-numpy-1.22.2-python-3.10.2//lib:/appl/numpy/1.22.2-python-3.10.2-openblas-0.3.19//lib:/appl/OpenBLAS/0.3.19/XeonE5-2660v3/gcc-11.2.0/lib:/appl/python/3.10.2/lib:/appl/gcc/10.3.0-binutils-2.36.1/lib64:/lsf/10.1/linux3.10-glibc2.17-x86_64/lib
+2022-06-17 17:41:31.217076: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+Traceback (most recent call last):
+  File "/zhome/c0/a/164613/biometric_systems/data-generation.py", line 3, in <module>
+    import auxiliar as ax
+  File "/zhome/c0/a/164613/biometric_systems/auxiliar.py", line 3, in <module>
+    import skimage.io
+ModuleNotFoundError: No module named 'skimage'
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717469   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717469   s212784 hpc        Alex_bio        2    0.0M   -0.0-    3.0G    0.0
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+No running job found
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py    Error_13717115.err  Error_13717331.err  Error_13717469.err     Output_13717115.out  Output_13717331.out  Output_13717469.out  submit.out
+auxiliar.py         Error_13717291.err  Error_13717368.err  landmarks.ipynb        Output_13717291.out  Output_13717368.out  probes_arcface.py    submit.sh
+data                Error_13717301.err  Error_13717408.err  main.py                Output_13717301.out  Output_13717408.out  __pycache__
+dataframe.ipynb     Error_13717317.err  Error_13717442.err  matrixdataframe.ipynb  Output_13717317.out  Output_13717442.out  README.md
+data-generation.py  Error_13717329.err  Error_13717457.err  NONAME_13717404.out    Output_13717329.out  Output_13717457.out  selected_photos.csv
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717469.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded dependency [numpy/1.22.2-python-3.10.2-openblas-0.3.19]: openblas/0.3.19
+Loaded dependency [pandas/1.4.1-python-3.10.2]: numpy/1.22.2-python-3.10.2-openblas-0.3.19
+Loaded module: pandas/1.4.1-python-3.10.2
+
+Loading pandas/1.4.1-python-3.10.2
+  Loading requirement: openblas/0.3.19
+    numpy/1.22.2-python-3.10.2-openblas-0.3.19
+2022-06-17 17:48:14.355988: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /appl/pandas/1.4.1-numpy-1.22.2-python-3.10.2//lib:/appl/numpy/1.22.2-python-3.10.2-openblas-0.3.19//lib:/appl/OpenBLAS/0.3.19/XeonE5-2660v3/gcc-11.2.0/lib:/appl/python/3.10.2/lib:/appl/gcc/10.3.0-binutils-2.36.1/lib64:/lsf/10.1/linux3.10-glibc2.17-x86_64/lib
+2022-06-17 17:48:14.356192: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+  0%|          | 0/36 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/zhome/c0/a/164613/.local/lib/python3.10/site-packages/arcface/ArcFace.py", line 32, in __init__
+    from astropy.utils.data import download_file
+ModuleNotFoundError: No module named 'astropy'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/zhome/c0/a/164613/biometric_systems/data-generation.py", line 40, in <module>
+    emb_dist, cos_sim  = ax.comparefaces(path1, path2)
+  File "/zhome/c0/a/164613/biometric_systems/auxiliar.py", line 25, in comparefaces
+    face_rec = ArcFace.ArcFace()
+  File "/zhome/c0/a/164613/.local/lib/python3.10/site-packages/arcface/ArcFace.py", line 34, in __init__
+    raise ImportError("Please install astropy (pip install astropy) if you want to use the pre-trained ArcFace network.")
+ImportError: Please install astropy (pip install astropy) if you want to use the pre-trained ArcFace network.
+~/biometric_systems
+hpclogin2(s212784) $ python3 -m pip install --user astropy
+Collecting astropy
+  Downloading astropy-5.1-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (10.9 MB)
+     |████████████████████████████████| 10.9 MB 2.1 MB/s
+Requirement already satisfied: numpy>=1.18 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from astropy) (1.22.4)
+Collecting pyerfa>=2.0
+  Downloading pyerfa-2.0.0.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (743 kB)
+     |████████████████████████████████| 743 kB 84.8 MB/s
+Requirement already satisfied: packaging>=19.0 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from astropy) (21.3)
+Requirement already satisfied: PyYAML>=3.13 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from astropy) (6.0)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /zhome/c0/a/164613/.local/lib/python3.10/site-packages (from packaging>=19.0->astropy) (3.0.9)
+Installing collected packages: pyerfa, astropy
+  WARNING: The scripts fits2bitmap, fitscheck, fitsdiff, fitsheader, fitsinfo, samp_hub, showtable, volint and wcslint are installed in '/zhome/c0/a/164613/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+WARNING: Value for scheme.headers does not match. Please report this to <https://github.com/pypa/pip/issues/9617>
+distutils: /zhome/c0/a/164613/.local/include/python3.10/UNKNOWN
+sysconfig: /zhome/c0/a/164613/.local/include/python3.10
+WARNING: Additional context:
+user = True
+home = None
+root = None
+prefix = None
+Successfully installed astropy-5.1 pyerfa-2.0.0.1
+WARNING: You are using pip version 21.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/appl/python/3.10.2/bin/python3 -m pip install --upgrade pip' command.
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717480   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:52    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717480   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:52    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717480   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:52    0:00:09
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717480   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:52    0:00:09
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+No running job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data             data-generation.py  landmarks.ipynb  matrixdataframe.ipynb  Output_13717480.out  __pycache__  selected_photos.csv  submit.sh
+auxiliar.py       dataframe.ipynb  Error_13717480.err  main.py          NONAME_13717404.out    probes_arcface.py    README.md    submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717480.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded dependency [numpy/1.22.2-python-3.10.2-openblas-0.3.19]: openblas/0.3.19
+Loaded dependency [pandas/1.4.1-python-3.10.2]: numpy/1.22.2-python-3.10.2-openblas-0.3.19
+Loaded module: pandas/1.4.1-python-3.10.2
+
+Loading pandas/1.4.1-python-3.10.2
+  Loading requirement: openblas/0.3.19
+    numpy/1.22.2-python-3.10.2-openblas-0.3.19
+2022-06-17 17:52:20.890764: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /appl/pandas/1.4.1-numpy-1.22.2-python-3.10.2//lib:/appl/numpy/1.22.2-python-3.10.2-openblas-0.3.19//lib:/appl/OpenBLAS/0.3.19/XeonE5-2660v3/gcc-11.2.0/lib:/appl/python/3.10.2/lib:/appl/gcc/10.3.0-binutils-2.36.1/lib64:/lsf/10.1/linux3.10-glibc2.17-x86_64/lib
+2022-06-17 17:52:20.890948: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+  0%|          | 0/16 [00:00<?, ?it/s]INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+  0%|          | 0/16 [00:05<?, ?it/s]
+Traceback (most recent call last):
+  File "/zhome/c0/a/164613/biometric_systems/data-generation.py", line 51, in <module>
+    df_emb[file1][file2] = emb_dist
+NameError: name 'emb_dist' is not defined
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717504   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:56    0:00:19
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717504   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:56    0:00:51
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717504   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:56    0:01:23
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717504   s212784 hpc        Alex_bio        2 RUN   Jun 17 17:56    0:01:23
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717504   s212784 hpc        Alex_bio        2  206.0M  206.0M  206.0M    6.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+No running job found
+~/biometric_systems
+hpclogin2(s212784) $ lb
+-bash: lb: command not found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data             data-generation.py  landmarks.ipynb  matrixdataframe.ipynb  Output_13717504.out  __pycache__  selected_photos.csv  submit.sh
+auxiliar.py       dataframe.ipynb  Error_13717504.err  main.py          NONAME_13717404.out    probes_arcface.py    README.md    submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717504.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded dependency [numpy/1.22.2-python-3.10.2-openblas-0.3.19]: openblas/0.3.19
+Loaded dependency [pandas/1.4.1-python-3.10.2]: numpy/1.22.2-python-3.10.2-openblas-0.3.19
+Loaded module: pandas/1.4.1-python-3.10.2
+
+Loading pandas/1.4.1-python-3.10.2
+  Loading requirement: openblas/0.3.19
+    numpy/1.22.2-python-3.10.2-openblas-0.3.19
+2022-06-17 17:56:27.439281: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /appl/pandas/1.4.1-numpy-1.22.2-python-3.10.2//lib:/appl/numpy/1.22.2-python-3.10.2-openblas-0.3.19//lib:/appl/OpenBLAS/0.3.19/XeonE5-2660v3/gcc-11.2.0/lib:/appl/python/3.10.2/lib:/appl/gcc/10.3.0-binutils-2.36.1/lib64:/lsf/10.1/linux3.10-glibc2.17-x86_64/lib
+2022-06-17 17:56:27.439490: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+  0%|          | 0/1441 [00:00<?, ?it/s]INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+/zhome/c0/a/164613/.lsbatch/1655481382.13717504.shell: line 38:  9056 Killed                  python3 /zhome/c0/a/164613/biometric_systems/data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ ^C
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data             data-generation.py  landmarks.ipynb  matrixdataframe.ipynb  Output_13717504.out  __pycache__  selected_photos.csv  submit.sh
+auxiliar.py       dataframe.ipynb  Error_13717504.err  main.py          NONAME_13717404.out    probes_arcface.py    README.md    submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Output_13717504.out
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data             data-generation.py  landmarks.ipynb  matrixdataframe.ipynb  Output_13717504.out  __pycache__  selected_photos.csv  submit.sh
+auxiliar.py       dataframe.ipynb  Error_13717504.err  main.py          NONAME_13717404.out    probes_arcface.py    README.md    submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717504.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded dependency [numpy/1.22.2-python-3.10.2-openblas-0.3.19]: openblas/0.3.19
+Loaded dependency [pandas/1.4.1-python-3.10.2]: numpy/1.22.2-python-3.10.2-openblas-0.3.19
+Loaded module: pandas/1.4.1-python-3.10.2
+
+Loading pandas/1.4.1-python-3.10.2
+  Loading requirement: openblas/0.3.19
+    numpy/1.22.2-python-3.10.2-openblas-0.3.19
+2022-06-17 17:56:27.439281: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /appl/pandas/1.4.1-numpy-1.22.2-python-3.10.2//lib:/appl/numpy/1.22.2-python-3.10.2-openblas-0.3.19//lib:/appl/OpenBLAS/0.3.19/XeonE5-2660v3/gcc-11.2.0/lib:/appl/python/3.10.2/lib:/appl/gcc/10.3.0-binutils-2.36.1/lib64:/lsf/10.1/linux3.10-glibc2.17-x86_64/lib
+2022-06-17 17:56:27.439490: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+  0%|          | 0/1441 [00:00<?, ?it/s]INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+/zhome/c0/a/164613/.lsbatch/1655481382.13717504.shell: line 38:  9056 Killed                  python3 /zhome/c0/a/164613/biometric_systems/data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data             data-generation.py  Error_13717577.err  main.py                NONAME_13717404.out  Output_13717577.out  __pycache__  selected_photos.csv  submit.sh
+auxiliar.py       dataframe.ipynb  Error_13717504.err  landmarks.ipynb     matrixdataframe.ipynb  Output_13717504.out  probes_arcface.py    README.md    submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717577   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717577   s212784 hpc        Alex_bio        2 RUN   Jun 17 18:05    0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717577   s212784 hpc        Alex_bio        2 RUN   Jun 17 18:05    0:01:03
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717577   s212784 hpc        Alex_bio        2 RUN   Jun 17 18:05    0:01:03
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717577   s212784 hpc        Alex_bio        2 RUN   Jun 17 18:05    0:02:07
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717577   s212784 hpc        Alex_bio        2  166.0M  166.0M  166.0M    6.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717577   s212784 hpc        Alex_bio        2 RUN   Jun 17 18:05    0:02:07
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data             data-generation.py  Error_13717577.err  main.py                NONAME_13717404.out  Output_13717577.out  __pycache__  selected_photos.csv  submit.sh
+auxiliar.py       dataframe.ipynb  Error_13717504.err  landmarks.ipynb     matrixdataframe.ipynb  Output_13717504.out  probes_arcface.py    README.md    submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717577.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded dependency [numpy/1.22.2-python-3.10.2-openblas-0.3.19]: openblas/0.3.19
+Loaded dependency [pandas/1.4.1-python-3.10.2]: numpy/1.22.2-python-3.10.2-openblas-0.3.19
+Loaded module: pandas/1.4.1-python-3.10.2
+
+Loading pandas/1.4.1-python-3.10.2
+  Loading requirement: openblas/0.3.19
+    numpy/1.22.2-python-3.10.2-openblas-0.3.19
+2022-06-17 18:05:51.462839: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /appl/pandas/1.4.1-numpy-1.22.2-python-3.10.2//lib:/appl/numpy/1.22.2-python-3.10.2-openblas-0.3.19//lib:/appl/OpenBLAS/0.3.19/XeonE5-2660v3/gcc-11.2.0/lib:/appl/python/3.10.2/lib:/appl/gcc/10.3.0-binutils-2.36.1/lib64:/lsf/10.1/linux3.10-glibc2.17-x86_64/lib
+2022-06-17 18:05:51.463051: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+  0%|          | 0/1441 [00:00<?, ?it/s]INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+/zhome/c0/a/164613/.lsbatch/1655481945.13717577.shell: line 38:  9857 Killed                  python3 /zhome/c0/a/164613/biometric_systems/data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717603   s212784 hpc        Alex_bio        2 RUN   Jun 17 18:10    0:00:16
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     Error_13717577.err  main.py                Output_13717504.out  probes_arcface.py  selected_photos.csv
+auxiliar.py       data-generation.py  Error_13717603.err  matrixdataframe.ipynb  Output_13717577.out  __pycache__        submit.out
+data              Error_13717504.err  landmarks.ipynb     NONAME_13717404.out    Output_13717603.out  README.md          submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717603.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded dependency [numpy/1.22.2-python-3.10.2-openblas-0.3.19]: openblas/0.3.19
+Loaded dependency [pandas/1.4.1-python-3.10.2]: numpy/1.22.2-python-3.10.2-openblas-0.3.19
+Loaded module: pandas/1.4.1-python-3.10.2
+
+Loading pandas/1.4.1-python-3.10.2
+  Loading requirement: openblas/0.3.19
+    numpy/1.22.2-python-3.10.2-openblas-0.3.19
+2022-06-17 18:10:38.161896: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /appl/pandas/1.4.1-numpy-1.22.2-python-3.10.2//lib:/appl/numpy/1.22.2-python-3.10.2-openblas-0.3.19//lib:/appl/OpenBLAS/0.3.19/XeonE5-2660v3/gcc-11.2.0/lib:/appl/python/3.10.2/lib:/appl/gcc/10.3.0-binutils-2.36.1/lib64:/lsf/10.1/linux3.10-glibc2.17-x86_64/lib
+2022-06-17 18:10:38.162105: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+  0%|          | 0/1441 [00:00<?, ?it/s]INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+ 14%|█▎        | 195/1441 [01:39<33:13,  1.60s/it]/zhome/c0/a/164613/.lsbatch/1655482232.13717603.shell: line 38: 10296 Killed                  python3 /zhome/c0/a/164613/biometric_systems/data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat submit.sh
+#!/bin/sh
+### General options
+### -- specify queue --
+#BSUB -q hpc
+### -- set the job Name --
+#BSUB -J Alex_bio
+### -- ask for number of cores (default: 1) --
+#BSUB -n 2
+### -- specify that the cores must be on the same host --
+#BSUB -R "span[hosts=1]"
+### -- specify that we need 2GB of memory per core/slot --
+#BSUB -R "rusage[mem=2GB]"
+### -- specify that we want the job to get killed if it exceeds 3 GB per core/slot --
+#BSUB -M 3GB
+### -- set walltime limit: hh:mm --
+#BSUB -W 72:00
+### -- set the email address --
+# please uncomment the following line and put in your e-mail address,
+# if you want to receive e-mail notifications on a non-default address
+##BSUB -u your_email_address
+### -- send notification at start --
+#BSUB -B
+### -- send notification at completion --
+#BSUB -N
+### -- Specify the output and error file. %J is the job-id --
+### -- -o and -e mean append, -oo and -eo mean overwrite --
+#BSUB -o Output_%J.out
+#BSUB -e Error_%J.err
+
+# -- run in the current working (submission) directory --
+if test X$PBS_ENVIRONMENT = XPBS_BATCH; then cd $PBS_O_WORKDIR; fi
+
+
+
+# here follow the commands you want to execute
+module load python3/3.10.2
+module load pandas/1.4.1-python-3.10.2
+python3 /zhome/c0/a/164613/biometric_systems/data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717636   s212784 hpc        Alex_bio        2  590.0M  590.0M  590.0M    6.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717636   s212784 hpc        Alex_bio        2  590.0M  590.0M  590.0M    6.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+No running job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  dataframe.ipynb     Error_13717577.err  landmarks.ipynb        NONAME_13717404.out  Output_13717603.out  __pycache__          submit.out
+auxiliar.py       data-generation.py  Error_13717603.err  main.py                Output_13717504.out  Output_13717636.out  README.md            submit.sh
+data              Error_13717504.err  Error_13717636.err  matrixdataframe.ipynb  Output_13717577.out  probes_arcface.py    selected_photos.csv
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717636.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded dependency [numpy/1.22.2-python-3.10.2-openblas-0.3.19]: openblas/0.3.19
+Loaded dependency [pandas/1.4.1-python-3.10.2]: numpy/1.22.2-python-3.10.2-openblas-0.3.19
+Loaded module: pandas/1.4.1-python-3.10.2
+
+Loading pandas/1.4.1-python-3.10.2
+  Loading requirement: openblas/0.3.19
+    numpy/1.22.2-python-3.10.2-openblas-0.3.19
+2022-06-17 18:16:38.602683: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /appl/pandas/1.4.1-numpy-1.22.2-python-3.10.2//lib:/appl/numpy/1.22.2-python-3.10.2-openblas-0.3.19//lib:/appl/OpenBLAS/0.3.19/XeonE5-2660v3/gcc-11.2.0/lib:/appl/python/3.10.2/lib:/appl/gcc/10.3.0-binutils-2.36.1/lib64:/lsf/10.1/linux3.10-glibc2.17-x86_64/lib
+2022-06-17 18:16:38.602885: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+  0%|          | 0/1441 [00:00<?, ?it/s]INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+ 14%|█▎        | 195/1441 [01:36<32:35,  1.57s/it]/zhome/c0/a/164613/.lsbatch/1655482594.13717636.shell: line 38: 10809 Killed                  python3 /zhome/c0/a/164613/biometric_systems/data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717676   s212784 hpc        Alex_bio        2  166.0M  166.0M  166.0M    6.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717676   s212784 hpc        Alex_bio        2  166.0M  166.0M  166.0M    6.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717676   s212784 hpc        Alex_bio        2  166.0M  166.0M  166.0M    6.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+No unfinished job found
+~/biometric_systems
+hpclogin2(s212784) $ ls
+aux_dataframe.py  data             data-generation.py  landmarks.ipynb  match_emb.txt          matrix_distance.csv  Output_13717676.out  __pycache__  selected_photos.csv  submit.sh
+auxiliar.py       dataframe.ipynb  Error_13717676.err  main.py          matrixdataframe.ipynb  NONAME_13717404.out  probes_arcface.py    README.md    submit.out
+~/biometric_systems
+hpclogin2(s212784) $ cat Error_13717676.err
+Loaded dependency [python3/3.10.2]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.10.2
+
+Loading python3/3.10.2
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded dependency [numpy/1.22.2-python-3.10.2-openblas-0.3.19]: openblas/0.3.19
+Loaded dependency [pandas/1.4.1-python-3.10.2]: numpy/1.22.2-python-3.10.2-openblas-0.3.19
+Loaded module: pandas/1.4.1-python-3.10.2
+
+Loading pandas/1.4.1-python-3.10.2
+  Loading requirement: openblas/0.3.19
+    numpy/1.22.2-python-3.10.2-openblas-0.3.19
+2022-06-17 18:23:24.750456: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /appl/pandas/1.4.1-numpy-1.22.2-python-3.10.2//lib:/appl/numpy/1.22.2-python-3.10.2-openblas-0.3.19//lib:/appl/OpenBLAS/0.3.19/XeonE5-2660v3/gcc-11.2.0/lib:/appl/python/3.10.2/lib:/appl/gcc/10.3.0-binutils-2.36.1/lib64:/lsf/10.1/linux3.10-glibc2.17-x86_64/lib
+2022-06-17 18:23:24.750678: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+  0%|          | 0/1440 [00:00<?, ?it/s]INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+ 14%|█▎        | 196/1440 [01:46<44:58,  2.17s/it]/zhome/c0/a/164613/.lsbatch/1655483000.13717676.shell: line 38: 11366 Killed                  python3 /zhome/c0/a/164613/biometric_systems/data-generation.py
+~/biometric_systems
+hpclogin2(s212784) $ vi submit.sh
+~/biometric_systems
+hpclogin2(s212784) $ bsub < submit.sh > submit.out
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717691   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717691   s212784 hpc        Alex_bio        0 PEND       -          0:00:00
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717691   s212784 hpc        Alex_bio        4 RUN   Jun 17 18:29    0:00:11
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4  166.0M  166.0M  166.0M   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4  166.0M  166.0M  166.0M   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4  166.0M  166.0M  166.0M   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4  166.0M  166.0M  166.0M   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717691   s212784 hpc        Alex_bio        4 RUN   Jun 17 18:29    0:01:47
+~/biometric_systems
+hpclogin2(s212784) $ bstat -C
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    ELAPSED     EFFIC
+13717691   s212784 hpc        Alex_bio        4    0:02:03      0.81
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4  166.0M  166.0M  166.0M   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717691   s212784 hpc        Alex_bio        4 RUN   Jun 17 18:29    0:02:51
+~/biometric_systems
+hpclogin2(s212784) $ bstat -C
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    ELAPSED     EFFIC
+13717691   s212784 hpc        Alex_bio        4    0:03:07      0.53
+~/biometric_systems
+hpclogin2(s212784) $ bstat -C
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    ELAPSED     EFFIC
+13717691   s212784 hpc        Alex_bio        4    0:03:23      0.49
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717691   s212784 hpc        Alex_bio        4 RUN   Jun 17 18:29    0:03:39
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717691   s212784 hpc        Alex_bio        4 RUN   Jun 17 18:29    0:03:55
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717691   s212784 hpc        Alex_bio        4 RUN   Jun 17 18:29    0:03:55
+~/biometric_systems
+hpclogin2(s212784) $ bstat
+JOBID      USER    QUEUE      JOB_NAME   NALLOC STAT  START_TIME      ELAPSED
+13717691   s212784 hpc        Alex_bio        4 RUN   Jun 17 18:29    0:03:55
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4   12.4G   12.4G    6.2G   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4   12.4G   12.4G    6.2G   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4   12.4G   12.4G    6.2G   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4   12.4G   12.4G    6.2G   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4   12.4G   12.4G    6.2G   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4   12.4G   12.4G    6.2G   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4   12.4G   12.4G    6.2G   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4   12.4G   12.4G    6.2G   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+JOBID      USER    QUEUE      JOB_NAME   NALLOC    MEM     MAX     AVG     LIM
+13717691   s212784 hpc        Alex_bio        4   20.3G   20.3G   12.5G   32.0G
+~/biometric_systems
+hpclogin2(s212784) $ bstat -M
+J
