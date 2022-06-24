@@ -10,7 +10,12 @@ Pass -> A1l2e3x41995
 HPC guide:
 - hpc.dtu.dk
 
+last folder: cd .. 
+make directory mkdir 
+next directory cd <name dir>
 
+run programe 
+bsub < submit1.sh > submit.out
 
 
 
