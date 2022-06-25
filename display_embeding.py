@@ -40,7 +40,7 @@ def plot_embeding_grid(emb_dist, input_size):
 
 
 
-def similarity_grid(images, cos_similarity, tag):
+def similarity_image(images, cos_similarity, tag):
     """
     ATRIBUTES
     ---------
